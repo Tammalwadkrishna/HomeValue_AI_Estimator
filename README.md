@@ -1,4 +1,4 @@
-# 🏡 House Price Prediction App
+# 🏡HomeValue AI Estimator
 
 This project is a **House Price Prediction Web App** built using **Streamlit** and **Linear Regression**.  
 It allows users to input house features and get an estimated price prediction.
